@@ -1,0 +1,31 @@
+body {
+	
+	margin: 0 auto;
+	max-width: 750px;
+	padding: 2rem;
+	border-radius: 6px;
+	overflow-x: hidden;
+	word-break: break-word;
+	overflow-wrap: break-word;
+	background: #212124;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+	color: #ffffff;
+	font-size: 1.03rem;
+	line-height: 1.5;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #7f7f7f;
+  }
